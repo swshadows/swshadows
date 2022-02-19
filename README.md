@@ -13,7 +13,7 @@ const swshadows = {
   location: "Brazil",
   interests: ["algorithms", "frontend", "backend", "gamedev"],
   hobbies: ["gaming", "art", "design", "music", "animes", "organization"],
-  favColorTones: ["black", "purple", "cyan", "lime_green", "magenta"],
+  favColorTones: ["black", "purple", "cyan", "limegreen", "magenta"],
   favQuote: "Arrogance destroys the foothold of victory",
   favAnimal: "🐼",
 };
