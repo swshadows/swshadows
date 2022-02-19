@@ -15,7 +15,7 @@ const swshadows = {
   hobbies: ["gaming", "art", "design", "music", "animes", "organization"],
   favColorTones: ["black", "purple", "cyan", "limegreen", "magenta"],
   favQuote: "Arrogance destroys the foothold of victory",
-  favAnimal: "🐼",
+  favAnimal: "🐱",
 };
 
 console.log(swshadows);
