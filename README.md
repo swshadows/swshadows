@@ -30,10 +30,10 @@ console.log(swshadows);
     <a style="margin-left: 4px;" href="https://swshadows.github.io/devfolio">
         <img src="https://img.shields.io/badge/Devfolio-informational?logo=github&style=for-the-badge&logoColor=ffffff&color=49516d&labelColor=1f2330">
     </a>
-    <a href="https://thoracic-nyala-418.notion.site/Lista-de-Tecnologias-1acba06fe09c48b19cd1123b30380601">
+    <a href="https://swshadows.notion.site/Lista-de-Tecnologias-1acba06fe09c48b19cd1123b30380601">
         <img src="https://img.shields.io/badge/Studylist-informational?logo=notion&style=for-the-badge&logoColor=ffffff&color=49516d&labelColor=1f2330">
     </a>
-    <a style="margin-left: 4px" href="https://thoracic-nyala-418.notion.site/Index-de-Projetos-53cfa4c7753c479cb5bc15fe55693637">
+    <a style="margin-left: 4px" href="https://swshadows.notion.site/Index-de-Projetos-53cfa4c7753c479cb5bc15fe55693637">
         <img src="https://img.shields.io/badge/Projects-informational?logo=notion&style=for-the-badge&logoColor=ffffff&color=49516d&labelColor=1f2330">
     </a>
 </div>
