@@ -1,4 +1,4 @@
-# <img width=20 src="assets/earth.gif"> Hello World <img width=20 src="assets/earth.gif">
+# <img height=40 src="assets/earth_spin.svg"> Hello World <img height=40 src="assets/earth_spin.svg">
 
 <div align="center">
     <img src="assets/hi.svg">
@@ -8,14 +8,15 @@
 
 ```javascript
 const swshadows = {
-  name: "Joe",
-  birthYear: "2000",
-  location: "Brazil",
+  name: undefined,
+  nicknames: ["Joe", "Shadow", "swshadows"],
+  birthDate: "Sep 10 2000",
+  location: {
+    country: "Brazil",
+    city: "Manaus",
+  },
   interests: ["algorithms", "frontend", "backend", "gamedev"],
   hobbies: ["gaming", "art", "design", "music", "animes", "organization"],
-  favColorTones: ["black", "purple", "cyan", "limegreen", "magenta"],
-  favQuote: "Arrogance destroys the foothold of victory",
-  favAnimal: "🐱",
 };
 
 console.log(swshadows);
@@ -30,7 +31,7 @@ console.log(swshadows);
     <a style="margin-left: 4px;" href="https://swshadows.github.io/devfolio">
         <img src="https://img.shields.io/badge/Devfolio-informational?logo=github&style=for-the-badge&logoColor=ffffff&color=49516d&labelColor=1f2330">
     </a>
-    <a href="https://swshadows.notion.site/Lista-de-Tecnologias-1acba06fe09c48b19cd1123b30380601">
+    <a href="https://swshadows.notion.site/Lista-de-Estudos-1acba06fe09c48b19cd1123b30380601">
         <img src="https://img.shields.io/badge/Studylist-informational?logo=notion&style=for-the-badge&logoColor=ffffff&color=49516d&labelColor=1f2330">
     </a>
     <a style="margin-left: 4px" href="https://swshadows.notion.site/Index-de-Projetos-53cfa4c7753c479cb5bc15fe55693637">
