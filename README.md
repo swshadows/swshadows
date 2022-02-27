@@ -1,14 +1,13 @@
 # <img height=40 src="assets/earth_spin.svg"> Hello World <img height=40 src="assets/earth_spin.svg">
 
 <div align="center">
-    <img src="assets/hi.svg">
+    <img src="assets/banner.svg">
 </div>
 
-## 💎 About Me
+## 💡 About Me
 
 ```javascript
 const swshadows = {
-  name: undefined,
   nicknames: ["Joe", "Shadow", "swshadows"],
   birthDate: "Sep 10 2000",
   location: {
@@ -18,21 +17,16 @@ const swshadows = {
   interests: ["algorithms", "frontend", "backend", "gamedev"],
   hobbies: ["gaming", "art", "design", "music", "animes", "organization"],
 };
-
-console.log(swshadows);
 ```
 
 ## 🖇️ Useful Links
 
 <div align="center">
-    <a href="https://swshadows.github.io">
-        <img src="https://img.shields.io/badge/HUB-informational?logo=github&style=for-the-badge&logoColor=ffffff&color=49516d&labelColor=1f2330">
+    <a style="margin-left: 4px;" href="https://swshadows.github.io">
+        <img src="https://img.shields.io/badge/Shadow's_HUB-informational?logo=github&style=for-the-badge&logoColor=ffffff&color=49516d&labelColor=1f2330">
     </a>
     <a style="margin-left: 4px;" href="https://swshadows.github.io/devfolio">
         <img src="https://img.shields.io/badge/Devfolio-informational?logo=github&style=for-the-badge&logoColor=ffffff&color=49516d&labelColor=1f2330">
-    </a>
-    <a href="https://swshadows.notion.site/Lista-de-Estudos-1acba06fe09c48b19cd1123b30380601">
-        <img src="https://img.shields.io/badge/Studylist-informational?logo=notion&style=for-the-badge&logoColor=ffffff&color=49516d&labelColor=1f2330">
     </a>
     <a style="margin-left: 4px" href="https://swshadows.notion.site/Index-de-Projetos-53cfa4c7753c479cb5bc15fe55693637">
         <img src="https://img.shields.io/badge/Projects-informational?logo=notion&style=for-the-badge&logoColor=ffffff&color=49516d&labelColor=1f2330">
@@ -48,9 +42,10 @@ console.log(swshadows);
     <img style="margin-right: 3px;" src="https://img.shields.io/badge/Cmder-informational?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABCFBMVEUAAAABAQECAgIDAwMEBAQFBQUHBwcICAgJCQkKCgoNDQ0ODg4PDw8QEBATExMUFBQVFRUdHR0pKSkrKysvLy80NDQ1NTU2NjY8PDw9PT1BQkBERERHR0dMTExQUFBTU1NWVlZaW1pfX19hYWFiYmJnZ2doaGhpaWl1dXV2dnV2dnZ8fHx/f3+DhIGJiYmRkZGYmJiZmZmampqfn5+goKChoaGoqKisrKyurq6ysrLCwsLGxsbJycnMzMvMzMzNzc3Q0NDS0tLS09LV1dXX19fb29vc3Nze3t7i4uLm5ubq6urs7Ozt7e3u7u7z8/P09PT29vb39/f5+fn6+vr8/Pz9/f3+/v7////S2V1QAAAAyklEQVR42r3Tg76EQBgF8JN57a5te21b8/5PsvbufP3YyfWvhnCP80zEAfDMiDx7DDLXx2fvNQL4dVvABQHqFfaviSG6DNe4pEFYXKmQoLWFPxKUVnFCgjfALBCgsS1YeCOATzj4wCEBTvGZU+UUF6QVK8+O8MoFT7hl7Ae7PFDfEGOMFQ0xzgFf2Gt2D+d45IB9fPcOv9hsLgVBaa3cO1bXhcBScIWbwckNdhLNRZDVxMjgLGkDyUUQvX8Zd/rDXcHrYU8A98nrmg5ttQWLQZ0ogQAAAABJRU5ErkJggg==&style=flat&logoColor=ffffff&color=49516d&labelColor=1f2330">
     <br>
     <img style="margin-right: 3px;" src="https://img.shields.io/badge/HTML-informational?logo=html5&style=flat&logoColor=ffffff&color=49516d&labelColor=1f2330">
-    <img style="margin-right: 3px;" src="https://img.shields.io/badge/Pug-informational?logo=pug&style=flat&logoColor=ffffff&color=49516d&labelColor=1f2330">
     <img style="margin-right: 3px;" src="https://img.shields.io/badge/CSS-informational?logo=css3&style=flat&logoColor=ffffff&color=49516d&labelColor=1f2330">
+    <img style="margin-right: 3px;" src="https://img.shields.io/badge/Bootstrap-informational?logo=bootstrap&style=flat&logoColor=ffffff&color=49516d&labelColor=1f2330">
     <img style="margin-right: 3px;" src="https://img.shields.io/badge/JavaScript-informational?logo=javascript&style=flat&logoColor=ffffff&color=49516d&labelColor=1f2330">
+    <img style="margin-right: 3px;" src="https://img.shields.io/badge/React.js-informational?logo=react&style=flat&logoColor=ffffff&color=49516d&labelColor=1f2330">
     <br>
     <img style="margin-right: 3px;" src="https://img.shields.io/badge/Node.js-informational?logo=node.js&style=flat&logoColor=ffffff&color=49516d&labelColor=1f2330">
     <img style="margin-right: 3px;" src="https://img.shields.io/badge/Express.js-informational?logo=express&style=flat&logoColor=ffffff&color=49516d&labelColor=1f2330">
