@@ -39,7 +39,6 @@ const swshadows = {
     <img style="margin-right: 3px;" src="https://img.shields.io/badge/Windows%2010-informational?logo=windows&style=flat&logoColor=ffffff&color=49516d&labelColor=1f2330">
     <img style="margin-right: 3px;" src="https://img.shields.io/badge/Visual%20Studio%20Code-informational?logo=visualstudiocode&style=flat&logoColor=ffffff&color=49516d&labelColor=1f2330">
     <img style="margin-right: 3px;" src="https://img.shields.io/badge/Git-informational?logo=git&style=flat&logoColor=ffffff&color=49516d&labelColor=1f2330">
-    <img style="margin-right: 3px;" src="https://img.shields.io/badge/Cmder-informational?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABCFBMVEUAAAABAQECAgIDAwMEBAQFBQUHBwcICAgJCQkKCgoNDQ0ODg4PDw8QEBATExMUFBQVFRUdHR0pKSkrKysvLy80NDQ1NTU2NjY8PDw9PT1BQkBERERHR0dMTExQUFBTU1NWVlZaW1pfX19hYWFiYmJnZ2doaGhpaWl1dXV2dnV2dnZ8fHx/f3+DhIGJiYmRkZGYmJiZmZmampqfn5+goKChoaGoqKisrKyurq6ysrLCwsLGxsbJycnMzMvMzMzNzc3Q0NDS0tLS09LV1dXX19fb29vc3Nze3t7i4uLm5ubq6urs7Ozt7e3u7u7z8/P09PT29vb39/f5+fn6+vr8/Pz9/f3+/v7////S2V1QAAAAyklEQVR42r3Tg76EQBgF8JN57a5te21b8/5PsvbufP3YyfWvhnCP80zEAfDMiDx7DDLXx2fvNQL4dVvABQHqFfaviSG6DNe4pEFYXKmQoLWFPxKUVnFCgjfALBCgsS1YeCOATzj4wCEBTvGZU+UUF6QVK8+O8MoFT7hl7Ae7PFDfEGOMFQ0xzgFf2Gt2D+d45IB9fPcOv9hsLgVBaa3cO1bXhcBScIWbwckNdhLNRZDVxMjgLGkDyUUQvX8Zd/rDXcHrYU8A98nrmg5ttQWLQZ0ogQAAAABJRU5ErkJggg==&style=flat&logoColor=ffffff&color=49516d&labelColor=1f2330">
     <br>
     <img style="margin-right: 3px;" src="https://img.shields.io/badge/HTML-informational?logo=html5&style=flat&logoColor=ffffff&color=49516d&labelColor=1f2330">
     <img style="margin-right: 3px;" src="https://img.shields.io/badge/CSS-informational?logo=css3&style=flat&logoColor=ffffff&color=49516d&labelColor=1f2330">
@@ -52,9 +51,9 @@ const swshadows = {
     <img style="margin-right: 3px;" src="https://img.shields.io/badge/MongoDB-informational?logo=mongodb&style=flat&logoColor=ffffff&color=49516d&labelColor=1f2330">
     <br>
     <img style="margin-right: 3px;" src="https://img.shields.io/badge/Notion-informational?logo=notion&style=flat&logoColor=ffffff&color=49516d&labelColor=1f2330">
+    <img style="margin-right: 3px;" src="https://img.shields.io/badge/Photoshop-informational?logo=adobephotoshop&style=flat&logoColor=ffffff&color=49516d&labelColor=1f2330">
+    <img style="margin-right: 3px;" src="https://img.shields.io/badge/Figma-informational?logo=figma&style=flat&logoColor=ffffff&color=49516d&labelColor=1f2330">
     <img style="margin-right: 3px;" src="https://img.shields.io/badge/LaTeX-informational?logo=latex&style=flat&logoColor=ffffff&color=49516d&labelColor=1f2330">
-    <img style="margin-right: 3px;" src="https://img.shields.io/badge/Markdown-informational?logo=markdown&style=flat&logoColor=ffffff&color=49516d&labelColor=1f2330">
-    <img style="margin-right: 3px;" src="https://img.shields.io/badge/Microsoft%20Office-informational?logo=microsoft%20office&style=flat&logoColor=ffffff&color=49516d&labelColor=1f2330">
 </div>
 
 ## 📊 Graphs and Stats
