@@ -36,10 +36,11 @@ const swshadows = {
 ## 🧰 Technologies and Tools
 
 <div align="center">
-    <img style="margin-right: 3px;" src="https://img.shields.io/badge/Windows-informational?logo=windows&style=flat&logoColor=ffffff&color=49516d&labelColor=1f2330">
-    <img style="margin-right: 3px;" src="https://img.shields.io/badge/Linux-informational?logo=linux&style=flat&logoColor=ffffff&color=49516d&labelColor=1f2330">
+    <img style="margin-right: 3px;" src="https://img.shields.io/badge/Windows_10-informational?logo=windows&style=flat&logoColor=ffffff&color=49516d&labelColor=1f2330">
+    <img style="margin-right: 3px;" src="https://img.shields.io/badge/Manjaro-informational?logo=manjaro&style=flat&logoColor=ffffff&color=49516d&labelColor=1f2330">
     <img style="margin-right: 3px;" src="https://img.shields.io/badge/Visual%20Studio%20Code-informational?logo=visualstudiocode&style=flat&logoColor=ffffff&color=49516d&labelColor=1f2330">
     <img style="margin-right: 3px;" src="https://img.shields.io/badge/Git-informational?logo=git&style=flat&logoColor=ffffff&color=49516d&labelColor=1f2330">
+    <img style="margin-right: 3px;" src="https://img.shields.io/badge/Tilix%20/%20Cmder-informational?logo=powershell&style=flat&logoColor=ffffff&color=49516d&labelColor=1f2330">
     <br>
     <img style="margin-right: 3px;" src="https://img.shields.io/badge/HTML-informational?logo=html5&style=flat&logoColor=ffffff&color=49516d&labelColor=1f2330">
     <img style="margin-right: 3px;" src="https://img.shields.io/badge/CSS-informational?logo=css3&style=flat&logoColor=ffffff&color=49516d&labelColor=1f2330">
