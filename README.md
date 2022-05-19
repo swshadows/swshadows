@@ -22,8 +22,11 @@ console.log(swshadows);
 ## 🖇️ My Links
 
 <div align="center" style="margin: 20px">
-    <a href="https://linktr.ee/swshadows">
-        <img width=200 src="https://img.shields.io/badge/Linktree-informational?logo=linktree&style=for-the-badge&color=141414&labelColor=000000"> 
+    <a href="https://twitter.com/swshadows">
+        <img src="https://img.shields.io/badge/Twitter-informational?logo=twitter&style=for-the-badge&color=141414&labelColor=000000"> 
+    </a>
+    <a href="https://www.linkedin.com/in/joelson-lima/">
+        <img src="https://img.shields.io/badge/LinkedIn-informational?logo=linkedin&style=for-the-badge&color=141414&logoColor=0A66C2&labelColor=000000"> 
     </a>
 </div>
 
