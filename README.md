@@ -28,12 +28,21 @@ console.log(swshadows);
     <a href="https://www.linkedin.com/in/joelson-lima/">
         <img src="https://img.shields.io/badge/LinkedIn-informational?logo=linkedin&style=for-the-badge&color=141414&logoColor=0A66C2&labelColor=000000"> 
     </a>
+    <a href="https://codepen.io/swshadows">
+        <img src="https://img.shields.io/badge/Codepen-informational?logo=codepen&style=for-the-badge&color=141414&labelColor=000000"> 
+    </a>
+    <a href="https://swshadows.itch.io/">
+        <img src="https://img.shields.io/badge/Itch-informational?logo=itchdotio&style=for-the-badge&color=141414&labelColor=000000"> 
+    </a>
+    <a href="https://dev.to/swshadows">
+        <img src="https://img.shields.io/badge/Dev-informational?logo=devdotto&style=for-the-badge&color=141414&labelColor=000000"> 
+    </a>
 </div>
 
 ## 🧰 Technologies and Tools
 
 <div align="center" style="margin: 20px">
-    <img width=500 src="assets/techs.svg">
+    <img width=90% src="assets/techs.svg">
 </div>
 
 ## 📊 Graphs and Stats
