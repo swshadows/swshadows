@@ -4,7 +4,7 @@
 
 <div align="center">
 <em>Everything you need to know about me is on my Notion homepage</em>
-
+<br>
 <a href="https://swshadows.notion.site/Shadow-Index-5729ad5bae0e4684ba8eecf6a5d55c32">
     <img height=35 src="https://img.shields.io/badge/Notion-informational?style=for-the-badge&color=1e1e1e&logo=notion">
 </a>
