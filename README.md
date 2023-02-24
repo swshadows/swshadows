@@ -8,7 +8,7 @@
 <img height=35 src="https://img.shields.io/badge/Notion-informational?style=for-the-badge&color=1e1e1e&logo=notion">
 </a>
 
-<img height=190 src="https://github-readme-stats.vercel.app/api/top-langs/?username=swshadows&langs_count=10&layout=compact&title_color=e7adfb&bg_color=1f2330&text_color=c5b9df&hide_border=true">
-<img height=190 src="https://github-readme-stats.vercel.app/api?username=swshadows&title_color=e7adfb&bg_color=1f2330&text_color=c5b9df&hide_border=true&icon_color=97ee91&show_icons=true">
-<img width=766 src="https://github-readme-activity-graph.cyclic.app/graph?username=swshadows&bg_color=1f2330&color=c5b9df&line=c5b9df&point=97ee91&area=true&hide_border=true">
+<img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=swshadows&langs_count=8&layout=compact&title_color=36e29b&bg_color=0e0f13&text_color=ae7abd&hide_border=true&exclude_repo=estudos-dev,faculdade,reccon">
+<img height=180 src="https://github-readme-stats.vercel.app/api?username=swshadows&title_color=36e29b&bg_color=0e0f13&text_color=ae7abd&hide_border=true&icon_color=36e29b&show_icons=true">
+<img width=720 src="https://github-readme-activity-graph.cyclic.app/graph?username=swshadows&bg_color=0e0f13&color=ae7abd&line=ae7abd&point=36e29b&area=true&area_color=43495b&hide_border=true">
 </div>
