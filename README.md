@@ -17,37 +17,38 @@
 <h3 align="center">Linguagens, Frameworks, etc.</h3>
 
 <div align="center">
-	<img src="assets/badges/html.svg">
-	<img src="assets/badges/css.svg">
-	<img src="assets/badges/sass.svg">
-	<img src="assets/badges/tailwind.svg">
-	<img src="assets/badges/javascript.svg">
-	<img src="assets/badges/typescript.svg">
-	<img src="assets/badges/vuejs.svg">
-	<img src="assets/badges/nodejs.svg">
-	<img src="assets/badges/php.svg">
-	<img src="assets/badges/python.svg">
+	<img src="https://raw.githubusercontent.com/swshadows/portfolio/refs/heads/master/assets/badges/html.svg">
+	<img src="https://raw.githubusercontent.com/swshadows/portfolio/refs/heads/master/assets/badges/css.svg">
+	<img src="https://raw.githubusercontent.com/swshadows/portfolio/refs/heads/master/assets/badges/sass.svg">
+	<img src="https://raw.githubusercontent.com/swshadows/portfolio/refs/heads/master/assets/badges/bootstrap.svg">
+	<img src="https://raw.githubusercontent.com/swshadows/portfolio/refs/heads/master/assets/badges/tailwind.svg">
+	<img src="https://raw.githubusercontent.com/swshadows/portfolio/refs/heads/master/assets/badges/javascript.svg">
+	<img src="https://raw.githubusercontent.com/swshadows/portfolio/refs/heads/master/assets/badges/typescript.svg">
+	<img src="https://raw.githubusercontent.com/swshadows/portfolio/refs/heads/master/assets/badges/nodejs.svg">
+	<img src="https://raw.githubusercontent.com/swshadows/portfolio/refs/heads/master/assets/badges/vuejs.svg">
+	<img src="https://raw.githubusercontent.com/swshadows/portfolio/refs/heads/master/assets/badges/php.svg">
+	<img src="https://raw.githubusercontent.com/swshadows/portfolio/refs/heads/master/assets/badges/python.svg">
 </div>
 
 <h3 align="center">Bancos de Dados</h3>
 
 <div align="center">
-	<img src="assets/badges/sqlite.svg">
-	<img src="assets/badges/mariadb.svg">
+	<img src="https://raw.githubusercontent.com/swshadows/portfolio/refs/heads/master/assets/badges/sqlite.svg">
+	<img src="https://raw.githubusercontent.com/swshadows/portfolio/refs/heads/master/assets/badges/mariadb.svg">
 </div>
 
 
 <h3 align="center">Ferramentas</h3>
 
 <div align="center">
-	<img src="assets/badges/vscode.svg">
-	<img src="assets/badges/beekeeperstudio.svg">
-	<img src="assets/badges/bruno.svg">
+	<img src="https://raw.githubusercontent.com/swshadows/portfolio/refs/heads/master/assets/badges/vscode.svg">
+	<img src="https://raw.githubusercontent.com/swshadows/portfolio/refs/heads/master/assets/badges/dbeaver.svg">
+	<img src="https://raw.githubusercontent.com/swshadows/portfolio/refs/heads/master/assets/badges/yaak.svg">
 </div>
 <div align="center">
-	<img src="assets/badges/git.svg">
-	<img src="assets/badges/github.svg">
-	<img src="assets/badges/docker.svg">
+	<img src="https://raw.githubusercontent.com/swshadows/portfolio/refs/heads/master/assets/badges/git.svg">
+	<img src="https://raw.githubusercontent.com/swshadows/portfolio/refs/heads/master/assets/badges/github.svg">
+	<img src="https://raw.githubusercontent.com/swshadows/portfolio/refs/heads/master/assets/badges/docker.svg">
 </div>
 
 
